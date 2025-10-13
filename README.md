@@ -1,4 +1,5 @@
-<img width="1902" height="778" alt="image" src="https://github.com/user-attachments/assets/d71d5048-f9db-40d1-85ca-85d86c40a4fe" /><img width="1902" height="778" alt="image" src="https://github.com/user-attachments/assets/7b7e4924-3aee-4d81-a7cc-ab388309fbbe" />🎙️ Live Meeting Summarizer Application
+
+🎙️ Live Meeting Summarizer Application
 
 The Live Meeting Summarizer Application is a powerful real-time meeting analysis tool that transcribes and summarizes audio discussions using state-of-the-art AI models. It provides a user-friendly interface built with Gradio, allowing users to upload audio recordings or capture live meeting streams for transcription, summarization, and evaluation.
 
@@ -10,6 +11,7 @@ Pipeline:
 ➡️ Audio → Transcription → Summarization (T5 & BART) → Evaluation (WER + ROUGE)
 
 The tool leverages modern NLP and speech recognition technologies to convert meeting audio into accurate transcripts and concise summaries—perfect for extracting key points, action items, and decisions from discussions.
+<img width="1902" height="778" alt="image" src="https://github.com/user-attachments/assets/d71d5048-f9db-40d1-85ca-85d86c40a4fe" />
 
 
 ✨ Features
