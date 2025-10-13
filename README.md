@@ -32,6 +32,7 @@ Downloadable Output: Allows users to download transcripts and summaries in text 
 
 
 
+
 -Technology Stack
 
 Frontend/UI: Gradio
