@@ -53,7 +53,7 @@ Audio Handling: FFmpeg
 Follow the steps below to set up and run the application:
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/live-meeting-summarizer.git
+git clone https://github.com/Akhilesh653/Infosys/tree/main?tab=readme-ov-file
 cd live-meeting-summarizer
 
 Step 2: Set Up the Environment
